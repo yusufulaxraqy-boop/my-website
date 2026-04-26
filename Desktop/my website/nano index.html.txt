@@ -1,0 +1,2 @@
+<h1>Hello from GitHub → EC2 🚀</h1>
+<p>This is my first deployed project using Git and AWS</p>
